@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=USB_DM Pin=FL1-2
+Removed Pin From Net: NetName=USB_DP Pin=FL1-3
+Added Pin To Net: NetName=USB_DP Pin=FL1-1
+Added Pin To Net: NetName=USB_DM Pin=FL1-4
+Added Pin To Net: NetName=NetFL1_2 Pin=FL1-2
+Added Pin To Net: NetName=NetFL1_2 Pin=J2-2
+Added Net: Name=NetFL1_2
+Added Pin To Net: NetName=NetFL1_3 Pin=FL1-3
+Added Pin To Net: NetName=NetFL1_3 Pin=J2-3
+Added Net: Name=NetFL1_3
+Added Room: Name=EG800K
