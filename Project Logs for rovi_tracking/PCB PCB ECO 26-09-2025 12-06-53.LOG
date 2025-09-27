@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VDD_EXT Pin=D7-C
+Added Pin To Net: NetName=VDD_EXT Pin=U2-82
+Added Pin To Net: NetName=VDD_EXT Pin=W1-2
+Added Member To Class: ClassName=EG800K Member=Component J1 NSIM-2-C
+Added Room: Name=EG800K

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=USB_DM Pin=B1-2
+Removed Pin From Net: NetName=USB_DP Pin=B1-3
+Removed Pin From Net: NetName=NetB1_4 Pin=J2-2
+Change Component DesignItemId : Designator=B1 Old DesignItemId=DLM0NSN900HY2D New DesignItemId=10118194-0001LF
+Change Component Footprint: Designator=B1 Old Footprint=DLM0NSB120HY2B New Footprint=AMPHENOL_10118194-0001LF
+Change Component Comment : Designator=B1 Old Comment=DLM0NSN900HY2D New Comment=10118194-0001LF
+Change Component Description : Designator=B1 Old Description=DLM0NSN_Y2D Series EMI Suppression Filter 90 at 100MHz 100mA 5V New Description=
+Change component parameters: Designator = "B1" ("B1"); Footprint = "DLM0NSB120HY2B"; UniqueID = "\UGQRJCJU" ("\UGQRJCJU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Amphenol ICC (FCI)'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10118194-0001LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=B1-2
+Added Pin To Net: NetName=NetB1_4 Pin=J2-3
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=NetB1_5 Pin=J2-2
+Added Net: Name=NetB1_5
+Added Room: Name=EG800K

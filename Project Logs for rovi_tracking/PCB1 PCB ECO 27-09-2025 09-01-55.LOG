@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC20_1 Pin=E1-1
+Removed Member From Class: ClassName=EG800K Member=E1
+Added Component: Designator=E?(XDCR_APAE1575R1820ABDC1-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Abracon'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "APAE1575R1820ABDC1-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC20_1 Pin=E?-1
+Added Member To Class: ClassName=EG800K Member=Component E? APAE1575R1820ABDC1-T
+Added Room: Name=EG800K

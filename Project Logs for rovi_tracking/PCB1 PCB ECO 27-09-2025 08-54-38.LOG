@@ -1,0 +1,32 @@
+Added Component: Designator=E1(XDCR_APAE1575R1820ABDC1-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Abracon'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "APAE1575R1820ABDC1-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSC3115X66N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Littelfuse'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "04661.25NRHF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FL1(FIL_DLM0NSN900HY2D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Murata Electronics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DLM0NSN900HY2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC20_1 Pin=E1-1
+Added Pin To Net: NetName=Vin Pin=F1-1
+Added Pin To Net: NetName=NetD1_2 Pin=F1-2
+Added Pin To Net: NetName=NetFL1_1 Pin=FL1-1
+Added Pin To Net: NetName=USB_DM Pin=FL1-2
+Added Pin To Net: NetName=USB_DP Pin=FL1-3
+Added Pin To Net: NetName=NetFL1_4 Pin=FL1-4
+Added Member To Class: ClassName=EG800K Member=Component E1 APAE1575R1820ABDC1-T
+Added Member To Class: ClassName=EG800K Member=Component F1 04661.25NRHF
+Added Member To Class: ClassName=EG800K Member=Component FL1 DLM0NSN900HY2D
+Added Room: Name=EG800K

@@ -1,0 +1,94 @@
+Added Component: Designator=D10(DIONC1005X43N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PESD0402-240/Ersa/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PESD0402-240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PESD0402-240/Ersa/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSE_0154010.DR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Littelfuse Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0154010.DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC8E_MP2560_MNP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Monolithic Power Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MP2560DN-LF-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U2(XCVR_EG800KEULC-I03-SNNSA)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EG800KEULC-I03-SNNSA/Quectel/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EG800KEULC-I03-SNNSA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EG800KEULC-I03-SNNSA/Quectel/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=D10-1
+Added Pin To Net: NetName=NetC20_1 Pin=D10-2
+Added Pin To Net: NetName=Vin Pin=F1-1
+Added Pin To Net: NetName=NetD1_2 Pin=F1-2
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=DBG_TXD Pin=P1-2
+Added Pin To Net: NetName=DBG_RXD Pin=P1-3
+Added Pin To Net: NetName=USB_DP Pin=P1-4
+Added Pin To Net: NetName=USB_DM Pin=P1-5
+Added Pin To Net: NetName=USB_VBUS Pin=P1-6
+Added Pin To Net: NetName=RXD Pin=P2-1
+Added Pin To Net: NetName=TXD Pin=P2-2
+Added Pin To Net: NetName=VBAT Pin=P2-3
+Added Pin To Net: NetName=VBAT Pin=P3-1
+Added Pin To Net: NetName=Vin Pin=P3-4
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-3
+Added Pin To Net: NetName=NetR7_1 Pin=U1-4
+Added Pin To Net: NetName=VBAT Pin=U1-5
+Added Pin To Net: NetName=NetR8_2 Pin=U1-6
+Added Pin To Net: NetName=NetC4_1 Pin=U1-7
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Pin To Net: NetName=VBAT Pin=U1-9
+Added Pin To Net: NetName=ANT_GNSS Pin=U2-2
+Added Pin To Net: NetName=PWRKEY Pin=U2-7
+Added Pin To Net: NetName=USIM_DATA Pin=U2-11
+Added Pin To Net: NetName=USIM_RST Pin=U2-12
+Added Pin To Net: NetName=USIM_CKL Pin=U2-13
+Added Pin To Net: NetName=USIM_VDD Pin=U2-14
+Added Pin To Net: NetName=NET_STATUS Pin=U2-16
+Added Pin To Net: NetName=MAIN_RXD Pin=U2-17
+Added Pin To Net: NetName=MAIN_TXD Pin=U2-18
+Added Pin To Net: NetName=MAIN_DTR Pin=U2-19
+Added Pin To Net: NetName=VDD_EXT Pin=U2-24
+Added Pin To Net: NetName=STATUS Pin=U2-25
+Added Pin To Net: NetName=ANT_GSM Pin=U2-35
+Added Pin To Net: NetName=DBG_RXD Pin=U2-38
+Added Pin To Net: NetName=DBG_TXD Pin=U2-39
+Added Pin To Net: NetName=VBAT Pin=U2-42
+Added Pin To Net: NetName=VBAT Pin=U2-43
+Added Pin To Net: NetName=USB_DP Pin=U2-59
+Added Pin To Net: NetName=USB_DM Pin=U2-60
+Added Pin To Net: NetName=USB_VBUS Pin=U2-61
+Added Pin To Net: NetName=USIM_DET Pin=U2-79
+Added Pin To Net: NetName=VDD_EXT Pin=U2-82
+Added Member To Class: ClassName=EG800K Member=Component D10 PESD0402-240
+Added Member To Class: ClassName=EG800K Member=Component F1 0154010.DR
+Added Member To Class: ClassName=EG800K Member=Component P1 Header 6
+Added Member To Class: ClassName=EG800K Member=Component P2 UART
+Added Member To Class: ClassName=EG800K Member=Component P3 Header 4
+Added Member To Class: ClassName=EG800K Member=Component U1 MP2560DN-LF-P
+Added Member To Class: ClassName=EG800K Member=Component U2 EG800KEULC-I03-SNNSA
+Added Room: Name=EG800K

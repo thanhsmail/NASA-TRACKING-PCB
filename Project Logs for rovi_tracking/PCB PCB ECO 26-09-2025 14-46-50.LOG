@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB_DP Pin=J2-2
+Added Pin To Net: NetName=NetB1_4 Pin=J2-2
+Added Net: Name=NetB1_4
+Added Room: Name=EG800K

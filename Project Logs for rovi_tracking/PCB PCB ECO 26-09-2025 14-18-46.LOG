@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=VBAT Pin=B1-2
+Removed Pin From Net: NetName=VBAT Pin=U2-1
+Removed Pin From Net: NetName=ANT_GNSS Pin=U2-2
+Removed Pin From Net: NetName=PWRKEY Pin=U2-7
+Removed Pin From Net: NetName=VBAT Pin=U2-10
+Removed Pin From Net: NetName=USIM_DATA Pin=U2-11
+Removed Pin From Net: NetName=USIM_RST Pin=U2-12
+Removed Pin From Net: NetName=USIM_CKL Pin=U2-13
+Removed Pin From Net: NetName=USIM_VDD Pin=U2-14
+Removed Pin From Net: NetName=NET_STATUS Pin=U2-16
+Removed Pin From Net: NetName=MAIN_RXD Pin=U2-17
+Removed Pin From Net: NetName=MAIN_TXD Pin=U2-18
+Removed Pin From Net: NetName=MAIN_DTR Pin=U2-19
+Removed Pin From Net: NetName=VDD_EXT Pin=U2-24
+Removed Pin From Net: NetName=STATUS Pin=U2-25
+Removed Pin From Net: NetName=VBAT Pin=U2-27
+Removed Pin From Net: NetName=VBAT Pin=U2-34
+Removed Pin From Net: NetName=ANT_GSM Pin=U2-35
+Removed Pin From Net: NetName=VBAT Pin=U2-36
+Removed Pin From Net: NetName=VBAT Pin=U2-37
+Removed Pin From Net: NetName=DBG_RXD Pin=U2-38
+Removed Pin From Net: NetName=DBG_TXD Pin=U2-39
+Removed Pin From Net: NetName=VBAT Pin=U2-40
+Removed Pin From Net: NetName=VBAT Pin=U2-41
+Removed Pin From Net: NetName=VBAT Pin=U2-42
+Removed Pin From Net: NetName=VBAT Pin=U2-43
+Removed Pin From Net: NetName=VBAT Pin=U2-45
+Removed Pin From Net: NetName=VBAT Pin=U2-46
+Removed Pin From Net: NetName=VBAT Pin=U2-47
+Removed Pin From Net: NetName=VBAT Pin=U2-48
+Removed Pin From Net: NetName=USB_DP Pin=U2-59
+Removed Pin From Net: NetName=USB_DM Pin=U2-60
+Removed Pin From Net: NetName=USB_VBUS Pin=U2-61
+Removed Pin From Net: NetName=VBAT Pin=U2-70
+Removed Pin From Net: NetName=VBAT Pin=U2-71
+Removed Pin From Net: NetName=VBAT Pin=U2-72
+Removed Pin From Net: NetName=VBAT Pin=U2-73
+Removed Pin From Net: NetName=USIM_DET Pin=U2-79
+Removed Pin From Net: NetName=VDD_EXT Pin=U2-82
+Removed Pin From Net: NetName=VBAT Pin=U2-88
+Removed Pin From Net: NetName=VBAT Pin=U2-89
+Removed Pin From Net: NetName=VBAT Pin=U2-90
+Removed Pin From Net: NetName=VBAT Pin=U2-91
+Removed Pin From Net: NetName=VBAT Pin=U2-92
+Removed Pin From Net: NetName=VBAT Pin=U2-93
+Removed Pin From Net: NetName=VBAT Pin=U2-94
+Removed Pin From Net: NetName=VBAT Pin=U2-95
+Removed Member From Class: ClassName=EG800K Member=U2
+Change Component Comment : Designator=B1 Old Comment=10118194-0001LF New Comment=0466001.NRHF
+Change component parameters: Designator = "B1" ("B1"); Footprint = "AMPHENOL_10118194-0001LF"; UniqueID = "\UGQRJCJU" ("\UGQRJCJU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Littelfuse'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0466001.NRHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(XCVR_EG800KEULC-I03-SNNSA)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EG800KEULC-I03-SNNSA/Quectel/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Quectel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EG800KEULC-I03-SNNSA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EG800KEULC-I03-SNNSA/Quectel/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ANT_GNSS Pin=U?-2
+Added Pin To Net: NetName=PWRKEY Pin=U?-7
+Added Pin To Net: NetName=USIM_DATA Pin=U?-11
+Added Pin To Net: NetName=USIM_RST Pin=U?-12
+Added Pin To Net: NetName=USIM_CKL Pin=U?-13
+Added Pin To Net: NetName=USIM_VDD Pin=U?-14
+Added Pin To Net: NetName=NET_STATUS Pin=U?-16
+Added Pin To Net: NetName=MAIN_RXD Pin=U?-17
+Added Pin To Net: NetName=MAIN_TXD Pin=U?-18
+Added Pin To Net: NetName=MAIN_DTR Pin=U?-19
+Added Pin To Net: NetName=VDD_EXT Pin=U?-24
+Added Pin To Net: NetName=STATUS Pin=U?-25
+Added Pin To Net: NetName=ANT_GSM Pin=U?-35
+Added Pin To Net: NetName=DBG_RXD Pin=U?-38
+Added Pin To Net: NetName=DBG_TXD Pin=U?-39
+Added Pin To Net: NetName=VBAT Pin=U?-42
+Added Pin To Net: NetName=VBAT Pin=U?-43
+Added Pin To Net: NetName=USB_DP Pin=U?-59
+Added Pin To Net: NetName=USB_DM Pin=U?-60
+Added Pin To Net: NetName=USB_VBUS Pin=U?-61
+Added Pin To Net: NetName=USIM_DET Pin=U?-79
+Added Pin To Net: NetName=VDD_EXT Pin=U?-82
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=J2-3
+Added Net: Name=NetB1_1
+Added Member To Class: ClassName=EG800K Member=Component U? EG800KEULC-I03-SNNSA

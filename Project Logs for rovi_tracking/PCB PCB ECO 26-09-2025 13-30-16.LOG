@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=4.3V Pin=C2-2
+Added Pin To Net: NetName=4.3V Pin=C3-2
+Added Pin To Net: NetName=4.3V Pin=C6-2
+Added Pin To Net: NetName=4.3V Pin=C7-2
+Added Pin To Net: NetName=4.3V Pin=C8-2
+Added Pin To Net: NetName=4.3V Pin=C9-2
+Added Pin To Net: NetName=4.3V Pin=C10-2
+Added Pin To Net: NetName=4.3V Pin=C11-2
+Added Pin To Net: NetName=4.3V Pin=C19-2
+Added Pin To Net: NetName=4.3V Pin=D3-C
+Added Pin To Net: NetName=4.3V Pin=D5-A
+Added Pin To Net: NetName=4.3V Pin=D6-A
+Added Pin To Net: NetName=4.3V Pin=R3-2
+Added Pin To Net: NetName=4.3V Pin=R4-2
+Added Pin To Net: NetName=4.3V Pin=R5-2
+Added Pin To Net: NetName=4.3V Pin=R6-2
+Added Pin To Net: NetName=4.3V Pin=R21-1
+Added Pin To Net: NetName=4.3V Pin=U2-42
+Added Pin To Net: NetName=4.3V Pin=U2-43
+Change Net Name : Old Net Name=4.3V New Net Name=VBAT
+Added Room: Name=EG800K

@@ -1,0 +1,9 @@
+Change Component Comment : Designator=F1 Old Comment=C2Q-3 New Comment=60v/3A
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUSC1608X56N"; UniqueID = "\UQQRTSER" ("\UQQRTSER")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Littelfuse'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "0466001.NRHF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=EG800K

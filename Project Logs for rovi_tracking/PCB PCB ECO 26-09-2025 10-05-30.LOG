@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=USIM_VDD Pin=J1-C1
+Removed Pin From Net: NetName=NetC16_2 Pin=J1-C2
+Removed Pin From Net: NetName=NetC17_2 Pin=J1-C3
+Removed Pin From Net: NetName=4.3V Pin=J1-C5
+Removed Pin From Net: NetName=NetC18_2 Pin=J1-C7
+Removed Pin From Net: NetName=USIM_DET Pin=J1-S/W
+Removed Pin From Net: NetName=4.3V Pin=J1-SH1
+Removed Pin From Net: NetName=4.3V Pin=J1-SH2
+Removed Pin From Net: NetName=4.3V Pin=J1-SH3
+Removed Member From Class: ClassName=EG800K Member=J1
+Added Component: Designator=B1(DLM0NSB120HY2B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DLM0NSN900HY2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dlm0nsn900hy2d/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-us/products/productdetail?partno=DLM0NSN900HY2%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DLM0NSN900HY2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-DLM0NSN900HY2D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DLM0NSN900HY2D?qs=lEfY3O89AqnvSXN6mgZhNw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CUI_NSIM-2-C)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Same Sky'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NSIM-2-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=USB_DM Pin=B1-2
+Added Pin To Net: NetName=USB_DP Pin=B1-3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=USIM_VDD Pin=J?-C1
+Added Pin To Net: NetName=NetC16_2 Pin=J?-C2
+Added Pin To Net: NetName=NetC17_2 Pin=J?-C3
+Added Pin To Net: NetName=4.3V Pin=J?-C5
+Added Pin To Net: NetName=NetC18_2 Pin=J?-C7
+Added Pin To Net: NetName=USIM_DET Pin=J?-S/W
+Added Pin To Net: NetName=4.3V Pin=J?-SH1
+Added Pin To Net: NetName=4.3V Pin=J?-SH2
+Added Pin To Net: NetName=4.3V Pin=J?-SH3
+Added Member To Class: ClassName=EG800K Member=Component B1 DLM0NSN900HY2D
+Added Member To Class: ClassName=EG800K Member=Component J? NSIM-2-C

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=USB_DP Pin=J2-2
+Added Room: Name=EG800K
