@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=USIM_DET Pin=J1-S/W
+Added Pin To Net: NetName=USIM_DET Pin=J1-C6
+Added Room: Name=EG800K
