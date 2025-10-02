@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=VBAT Pin=C2-2
+Removed Pin From Net: NetName=VBAT Pin=C3-2
+Removed Pin From Net: NetName=USB_DM Pin=D8-C
+Removed Pin From Net: NetName=USB_DP Pin=D9-C
+Removed Pin From Net: NetName=VBAT Pin=R3-2
+Removed Pin From Net: NetName=VBAT Pin=R4-2
+Removed Pin From Net: NetName=VBAT Pin=R5-2
+Added Component: Designator=C23(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samsung Electro-Mechanics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21A226MQQNNNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samsung Electro-Mechanics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21A226MQQNNNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samsung Electro-Mechanics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21A226MQQNNNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_EXT Pin=C2-2
+Added Pin To Net: NetName=VDD_EXT Pin=C3-2
+Added Pin To Net: NetName=ANT_GSM Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=VDD_EXT Pin=R3-2
+Added Pin To Net: NetName=VDD_EXT Pin=R4-2
+Added Pin To Net: NetName=VDD_EXT Pin=R5-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=J3-1
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=C25-1
+Added Pin To Net: NetName=NetC23_2 Pin=R22-1
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetD8_C Pin=D8-C
+Added Pin To Net: NetName=NetD8_C Pin=FL1-1
+Added Pin To Net: NetName=NetD8_C Pin=J2-2
+Added Net: Name=NetD8_C
+Added Pin To Net: NetName=NetD9_C Pin=D9-C
+Added Pin To Net: NetName=NetD9_C Pin=FL1-4
+Added Pin To Net: NetName=NetD9_C Pin=J2-3
+Added Net: Name=NetD9_C
+Added Member To Class: ClassName=EG800K Member=Component C23 100pF
+Added Member To Class: ClassName=EG800K Member=Component C24 33pF
+Added Member To Class: ClassName=EG800K Member=Component C25 33pF
+Added Room: Name=EG800K
