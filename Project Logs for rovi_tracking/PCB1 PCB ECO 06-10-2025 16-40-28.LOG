@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Member To Class: ClassName=EG800K Member=Component D3 SMAJ5.0A
+Added Member To Class: ClassName=EG800K Member=Component J1 NSIM-2-C
+Added Member To Class: ClassName=EG800K Member=Component L1 10uH
+Added Member To Class: ClassName=EG800K Member=Component U2 EG800KEULC-I03-SNNSA
+Added Room: Name=EG800K
