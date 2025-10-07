@@ -1,0 +1,13 @@
+Added Component: Designator=U?(MODULE_ESP32-C3_SUPERMINI_TH)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-C3_SUPERMINI_TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=U?-5V
+Added Pin To Net: NetName=TXD Pin=U?-20
+Added Pin To Net: NetName=RXD Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-G
+Added Member To Class: ClassName=EG800K Member=Component U? ESP32-C3_SUPERMINI_TH
+Added Room: Name=EG800K

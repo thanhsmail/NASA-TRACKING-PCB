@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=USB_DP Pin=P3-4
+Removed Pin From Net: NetName=USB_DM Pin=P3-5
+Added Pin To Net: NetName=USB_DM Pin=P3-4
+Added Pin To Net: NetName=USB_DP Pin=P3-5
+Added Member To Class: ClassName=EG800K Member=Component D4 SS34
+Added Member To Class: ClassName=EG800K Member=Component P3 Header 6
+Added Room: Name=EG800K

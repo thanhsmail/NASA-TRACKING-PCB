@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=USB_DM Pin=P3-4
+Removed Pin From Net: NetName=USB_DP Pin=P3-5
+Added Pin To Net: NetName=NetD8_C Pin=P3-4
+Added Pin To Net: NetName=NetD9_C Pin=P3-5
+Change Net Name : Old Net Name=NetD8_C New Net Name=USB_D-
+Change Net Name : Old Net Name=NetD9_C New Net Name=USB_D+
+Added Room: Name=EG800K

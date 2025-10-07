@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=U? Old Footprint=MODULE_ESP32-C3_SUPERMINI_TH New Footprint=MODULE_ESP32-C3_SUPERMINI
+Change Component Comment : Designator=U? Old Comment=ESP32-C3_SUPERMINI_TH New Comment=ESP32-C3_SUPERMINI_SMD
+Change component parameters: Designator = "U?" ("U?"); Footprint = "MODULE_ESP32-C3_SUPERMINI_TH"; UniqueID = "\KODRZFTM" ("\KODRZFTM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP32-C3_SUPERMINI_SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=EG800K
