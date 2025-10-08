@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB_D- Pin=D11-1
+Removed Pin From Net: NetName=USB_VBUS Pin=D11-2
+Added Pin To Net: NetName=USB_VBUS Pin=D11-1
+Added Pin To Net: NetName=USB_D- Pin=D11-2
+Added Member To Class: ClassName=EG800K Member=Component D11 SM712-02HTG
+Added Room: Name=EG800K

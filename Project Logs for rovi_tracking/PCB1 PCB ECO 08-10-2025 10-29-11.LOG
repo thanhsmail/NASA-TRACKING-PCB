@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=D8-A
+Removed Pin From Net: NetName=USB_D- Pin=D8-C
+Removed Pin From Net: NetName=GND Pin=D9-A
+Removed Pin From Net: NetName=USB_D+ Pin=D9-C
+Removed Member From Class: ClassName=EG800K Member=D8
+Removed Member From Class: ClassName=EG800K Member=D9
+Added Member To Class: ClassName=EG800K Member=Component D11 SM712-02HTG
+Added Room: Name=EG800K

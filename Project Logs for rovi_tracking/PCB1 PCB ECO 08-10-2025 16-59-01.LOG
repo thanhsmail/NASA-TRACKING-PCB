@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_D- Pin=P3-4
+Removed Pin From Net: NetName=USB_D+ Pin=P3-5
+Added Pin To Net: NetName=USB_D+ Pin=P3-4
+Added Pin To Net: NetName=USB_D- Pin=P3-5
+Added Room: Name=EG800K

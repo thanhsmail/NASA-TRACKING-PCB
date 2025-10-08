@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=D8-A
+Removed Pin From Net: NetName=USB_D- Pin=D8-C
+Removed Pin From Net: NetName=GND Pin=D9-A
+Removed Pin From Net: NetName=USB_D+ Pin=D9-C
+Removed Member From Class: ClassName=EG800K Member=D8
+Removed Member From Class: ClassName=EG800K Member=D9
+Added Component: Designator=D11(SM71202HTG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SM712-02HTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sm712-02htg/littelfuse?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a4019802-ff62-41ff-bf66-295f97422f81&filename=littelfuse-tvs-diode-array-sm712-datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM712-02HTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SM712-02HTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_D+ Pin=D11-1
+Added Pin To Net: NetName=USB_D- Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D11-3
+Added Member To Class: ClassName=EG800K Member=Component D11 SM712-02HTG
+Added Room: Name=EG800K

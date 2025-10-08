@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GIPO10 Pin=Q5-3
+Removed Pin From Net: NetName=GIPO10 Pin=R24-1
+Removed Pin From Net: NetName=GIPO9 Pin=R27-2
+Added Pin To Net: NetName=GIPO9 Pin=Q5-3
+Added Pin To Net: NetName=GIPO9 Pin=R24-1
+Added Pin To Net: NetName=GIPO10 Pin=R27-2
+Added Member To Class: ClassName=EG800K Member=Component C2 104/50v
+Added Member To Class: ClassName=EG800K Member=Component C3 104/50v
+Added Member To Class: ClassName=EG800K Member=Component Q1 2SC1815
+Added Member To Class: ClassName=EG800K Member=Component Q2 2SC1815
+Added Member To Class: ClassName=EG800K Member=Component R3 4.7K
+Added Member To Class: ClassName=EG800K Member=Component R4 4.7K
+Added Member To Class: ClassName=EG800K Member=Component R5 10K
+Added Member To Class: ClassName=EG800K Member=Component R6 10K
+Added Room: Name=EG800K
