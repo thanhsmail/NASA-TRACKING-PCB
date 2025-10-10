@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Q3 Old Footprint=SOT95P237X112-3N New Footprint=SOT95P240X110-3N
+Change Component Comment : Designator=Q3 Old Comment=2SC1815 New Comment=C1815
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOT95P237X112-3N"; UniqueID = "\TDMVUVGK" ("\TDMVUVGK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/RECT/RECTS01160/RECTS01160-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=EG800K
