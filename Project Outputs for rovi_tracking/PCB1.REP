@@ -31,10 +31,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 4
-      File : PCB1.GM4
+Generating : Mechanical 3
+      File : PCB1.GM3
 
-    Adding Layer      : Mechanical 4
+    Adding Layer      : Mechanical 3
 
 
 Used DCodes :
@@ -61,20 +61,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : PCB1.GKO
+Generating : Mechanical 4
+      File : PCB1.GM4
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Mechanical 4
 
 
 Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 3
-      File : PCB1.GM3
+Generating : Keep-Out Layer
+      File : PCB1.GKO
 
-    Adding Layer      : Mechanical 3
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
@@ -106,9 +106,9 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D17
-    D19
-    D22
+    D21
+    D23
+    D24
     D32
     D80
     D81
@@ -136,9 +136,9 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D37
-    D39
-    D42
+    D41
+    D43
+    D44
     D56
     D59
     D60
@@ -280,13 +280,13 @@ Used DCodes :
     D25
     D26
     D27
+    D28
     D29
-    D30
     D31
     D32
     D33
     D34
-    D66
+    D59
     D67
     D68
     D69
@@ -298,7 +298,6 @@ Used DCodes :
     D76
     D77
     D78
-    D79
 *************************************************************
 
 *************************************************************
@@ -326,13 +325,13 @@ Used DCodes :
     D25
     D26
     D27
+    D28
     D29
-    D30
     D31
     D32
     D33
     D34
-    D66
+    D59
     D67
     D68
     D69
@@ -359,11 +358,11 @@ Generating : Bottom Layer
 
 Used DCodes :
     D13
-    D17
-    D19
-    D22
+    D21
+    D23
+    D24
     D32
-    D66
+    D59
     D72
     D73
     D74
@@ -396,18 +395,17 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D17
-    D19
-    D22
+    D21
+    D23
+    D24
     D32
-    D66
+    D59
     D73
     D74
     D75
     D76
     D77
     D78
-    D79
     D80
     D81
     D82
